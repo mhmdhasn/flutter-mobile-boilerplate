@@ -1,0 +1,1 @@
+// lottie loader widget.
